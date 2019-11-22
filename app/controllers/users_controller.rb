@@ -2,6 +2,7 @@ class UsersController < ApplicationController
     
     # def index
     #     user = User.find_by(params[:username])
+    
     # end
     
     def show
